@@ -1,12 +1,12 @@
 {
-  "export_job_id": "60cd24ac-2352-496c-84fb-955e874171dc",
+  "export_job_id": "21c2f17d-a9d3-4bb2-9a7f-a47dde13347a",
   "id_short": 942005,
-  "published_at": "2026-04-19T19:42:27Z",
+  "published_at": "2026-04-23T19:52:06Z",
   "repo_name": "top-20-active-restaurant-review-whales-in-philadelphia-camden-wilmington-metro-are-sample-942005",
   "sample_asset_name": "beamstation_942005_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/942005/beamstation_942005_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
-  "sample_records": 151,
-  "sample_sha256": "15ffd0744906dd4fba21c27d1afb7cf5c78f5cafdea36cd761b28f1ba22cd063",
-  "sample_size_bytes": 569171,
-  "total_records": 1518
+  "sample_records": 23,
+  "sample_sha256": "d8cadd463582e19a2708062cd49843ffcff086455a5f14866538099b25ae9202",
+  "sample_size_bytes": 107368,
+  "total_records": 234
 }
